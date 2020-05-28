@@ -8,7 +8,7 @@ User can also place hurdles(obstacles) one by one in the grid, by clicking in th
 Each press of 'r' in the keyboard places 100 hurdles(obstacles) at random positions in the grid.
 After that the user can hit the "spacebar" to see the program finding out the shortest path between start and end point.
 Press 'o' to clear the grid.
-# About the pyhton modules used
+# About the python modules used
 Turtle: To do the overall visualisation of the entire process
 Tkinter: To show info if there is not path available between start and end points 
 random: to place the obstacles randomly at any point of the grid
