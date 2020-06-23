@@ -1,5 +1,6 @@
 # Shortest-Path-Finder-PythonProject
 Uses the concept of BFS(Breadth First Search) to find out the shortest path between start and end point. 
+![demo](https://user-images.githubusercontent.com/53531220/85393786-30054000-b56b-11ea-851e-54fa41684586.PNG)
 # About the program
 A window is opened in front of the user once this program is runned.
 A set of quick instructions is provided at the top of the window.
